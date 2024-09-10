@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../design-patterns/Structural">
+      <sourceFolder url="file://$MODULE_DIR$/../design-patterns/Structural/Adapter" isTestSource="false" packagePrefix="design" />
+      <sourceFolder url="file://$MODULE_DIR$/../design-patterns/Structural/Bridge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../design-patterns/Structural/Composite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../design-patterns/Structural/Decorator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../design-patterns/Structural/Flyweight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../design-patterns/Structural/Proxy/CommandExecutor" isTestSource="false" packagePrefix="design" />
+      <sourceFolder url="file://$MODULE_DIR$/../design-patterns/Structural/Proxy/ProxyImage" isTestSource="false" packagePrefix="Proxy" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

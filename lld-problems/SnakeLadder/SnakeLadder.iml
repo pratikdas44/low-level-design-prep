@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Behavioural" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Behavioural/chainofr" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Behavioural/command/Remote" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Creational/Factory/ElectricBill" isTestSource="false" packagePrefix="design" />
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Creational/Singleton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Structural/Adapter" isTestSource="false" packagePrefix="design" />
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Structural/Bridge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Structural/Composite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Structural/Flyweight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Structural/Proxy/CommandExecutor" isTestSource="false" packagePrefix="design" />
+      <sourceFolder url="file://$MODULE_DIR$/../../design-patterns/Structural/Proxy/ProxyImage" isTestSource="false" packagePrefix="Proxy" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../distributed-cache/scaler" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../oopsConcept/SRP/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
