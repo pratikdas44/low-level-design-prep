@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./LLD-Problems/DistributedCache/models/Distributed"
+    ]
+}
