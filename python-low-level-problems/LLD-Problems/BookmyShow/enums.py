@@ -1,6 +1,16 @@
 from enum import Enum
 
+class SeatStatus(Enum):
+    AVAILABLE = "AVAILABLE"
+    BOOKED = "BOOKED"
+    LOCKED = "LOCKED"
+
 class BookingStatus(Enum):
-    PAYMENT_PENDING = 1
-    SUCCESS = 2
-    FAILURE = 3
+    PENDING = "PENDING"
+    CONFIRMED = "CONFIRMED"
+    CANCELLED = "CANCELLED"
+
+class SeatType(Enum):
+    REGULAR = "REGULAR"
+    PREMIUM = "PREMIUM"
+    VIP = "VIP"

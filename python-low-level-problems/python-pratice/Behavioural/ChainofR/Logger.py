@@ -63,7 +63,9 @@ def main():
     chain_logger = do_chaining()
     
     chain_logger.log_message(Logger.OUTPUT_INFO, "Enter the sequence of values")
+    print('------------------')
     chain_logger.log_message(Logger.ERROR_INFO, "An error is occurred now")
+    print('------------------')
     chain_logger.log_message(Logger.DEBUG_INFO, "This was the error now debugging is completed")
 
 if __name__ == "__main__":

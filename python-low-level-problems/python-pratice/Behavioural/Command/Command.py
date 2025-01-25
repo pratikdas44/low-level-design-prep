@@ -41,8 +41,6 @@ class TurnOffCommand(Command):
 
 # Invoker
 class RemoteControl:
-    def __init__(self) -> None:
-        self._command: Command | None = None
     
     def set_command(self, command: Command) -> None:
         self._command = command

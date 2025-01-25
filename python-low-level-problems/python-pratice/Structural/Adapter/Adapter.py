@@ -13,7 +13,7 @@ class Car(Vehicle):
     def accelerate(self) -> None:
         print("Car is acclerating")
 
-class BicycleAdapter(Vehicle):
+class BicycleAdapter():
     def __init__(self, bicycle: 'Bicycle') -> None:
         self._bicycle = bicycle
 

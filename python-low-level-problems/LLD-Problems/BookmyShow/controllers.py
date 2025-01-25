@@ -3,7 +3,7 @@ class BookingController():
         self.bookingService = None
 
     def bookTicket(self, bookingRequest):
-        return bookingRequest.bookTicket(bookingRequest)\
+        return bookingRequest.bookTicket(bookingRequest)
         
 
 class CustomerController():

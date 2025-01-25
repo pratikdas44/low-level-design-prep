@@ -38,9 +38,10 @@ class MultithreadSingleton:
     _lock = Lock()  # Class level lock for thread synchronization
     
     def __init__(self):
-        if not hasattr(self, 'initialized'):
-            print("Initializing MultithreadSingleton")
-            self.initialized = True
+        pass
+        # if not hasattr(self, 'initialized'):
+        #     print("Initializing MultithreadSingleton")
+        #     self.initialized = True
     
     @classmethod
     def get_instance(cls):
